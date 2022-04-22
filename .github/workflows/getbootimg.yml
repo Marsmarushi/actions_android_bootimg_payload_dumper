@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.5.5.0.RKHCNXM/miui_ALIOTH_V12.5.5.0.RKHCNXM_c5a30ac282_11.0.zip
+  ROM_URL: https://mirrorbits.lineageos.org/full/marlin/20220420/lineage-18.1-20220420-nightly-marlin-signed.zip
   TZ: Asia/Shanghai
 
 jobs:
